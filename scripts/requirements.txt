@@ -1,0 +1,8 @@
+APScheduler==3.3.1
+SQLAlchemy==1.1.13
+pandas==0.22.0
+Scrapy==1.5.0
+pytz==2017.3
+selenium==3.8.1
+python-slugify==1.2.4
+pymongo==3.6.0
