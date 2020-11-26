@@ -3,7 +3,7 @@
 
 ---
 
-# Item Scraper
+# Generalized Item Scraper
 
 - Omar Trejo
 - January, 2018
