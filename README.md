@@ -1,4 +1,8 @@
 
+[Delta Lab](https://links.deltalab.ai/website) | [Twitter](https://links.deltalab.ai/twitter) | [LinkedIn](https://links.deltalab.ai/linkedin)
+
+---
+
 # Item Scraper
 
 - Omar Trejo
@@ -565,3 +569,7 @@ python db_to_csv.py --site AMZN --search-string 65UX340C --file example_5.csv
   - Use search page: Yes
   - Double-hop: No
   - **TODO**: Discuss with Mike
+
+---
+
+> "We are the people we have been waiting for."
